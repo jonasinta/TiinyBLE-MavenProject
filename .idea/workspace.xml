@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb30e38-47c5-4a49-9f40-cc6ae0937ad1" name="Changes" comment="gradle upgraded to work with java version 21" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_compile>
+              <task name="run" />
+            </after_compile>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tinyB-gradle-demo2" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f3ebfc71-349a-4903-b9d6-eaa587fed34c" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/Object.class" root0="SKIP_INSPECTION" />
+    <setting file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/ref/Reference.class" root0="SKIP_INSPECTION" />
+    <setting file="jrt:///usr/lib/jvm/default-java!/java.base/jdk/internal/misc/Unsafe.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zcynjnzby1bNR2ob2mMCCS0pVS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.tinyB-gradle-demo2 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [javadoc].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tinyB-gradle-demo2 [run].executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jonas/workspaceJavaEE/tinyB-gradle-demo2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/jonas/workspaceJavaEE/tinyB-gradle-demo2/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47011495&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.tinyB-gradle-demo2 [run]">
+    <configuration name="tinyB-gradle-demo2 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="tinyB-gradle-demo2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="tinyB-gradle-demo2 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="tinyB-gradle-demo2 [javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="javadoc" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="tinyB-gradle-demo2 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.tinyB-gradle-demo2 [assemble]" />
+      <item itemvalue="Gradle.tinyB-gradle-demo2 [jar]" />
+      <item itemvalue="Gradle.tinyB-gradle-demo2 [javadoc]" />
+      <item itemvalue="Gradle.tinyB-gradle-demo2 [build]" />
+      <item itemvalue="Gradle.tinyB-gradle-demo2 [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.tinyB-gradle-demo2 [run]" />
+        <item itemvalue="Gradle.tinyB-gradle-demo2 [build]" />
+        <item itemvalue="Gradle.tinyB-gradle-demo2 [javadoc]" />
+        <item itemvalue="Gradle.tinyB-gradle-demo2 [assemble]" />
+        <item itemvalue="Gradle.tinyB-gradle-demo2 [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-75f08976" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb30e38-47c5-4a49-9f40-cc6ae0937ad1" name="Changes" comment="" />
+      <created>1752044830218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752044830218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752198095133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752198095133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752198454110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752198454111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752199980898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752199980898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752199992075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752199992075</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752200116846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752200116846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752224218143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752224218143</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752224560003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752224560003</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
