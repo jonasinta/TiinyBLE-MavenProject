@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7aba48a-aff4-47f4-b3b8-7c6f43163a40" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,6 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2lBU53VNQHLMuKkNrc4bxq09Yjf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +79,7 @@
     "Maven.TiinyBLE-MavenProject [validate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/jonas/workspaceJavaEE/TiinyBLE-MavenProject",
     "onboarding.tips.debug.path": "/home/jonas/workspaceJavaEE/TiinyBLE-MavenProject/src/main/java/org/example/Main.java",
@@ -102,11 +100,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,7 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ggg" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="2ndstash" />
+    <option name="LAST_COMMIT_MESSAGE" value="2ndstash" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
