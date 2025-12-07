@@ -73,7 +73,7 @@ public class Main {
          */
         try {
             manager.stopDiscovery();
-        } catch ( BluetoothException e) {
+        } catch (BluetoothException e) {
             System.err.println("Discovery could not be stopped right now");
         }
 
